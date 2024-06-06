@@ -1,0 +1,54 @@
+body{
+  
+    background-image: url("backgrnd.PNG");
+    background-size: 100% ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0px;
+    color: ghostwhite;
+    text-align: center;
+  font-family:"Courier New", Courier, monospace;
+  
+  
+  }
+
+p{
+    font-size: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: -5px;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(185, 173, 4);
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(238, 238, 238);
+  }
+  
+ 
+  form {
+    margin-top: 20px; 
+    border: 3px solid #f1f1f1;
+    align-self: center;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    
+}
